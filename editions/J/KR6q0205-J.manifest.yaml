@@ -1,0 +1,2354 @@
+canonical_identifier: bkk:krp/KR6q0205/J/v1
+canonical_location: https://kanripo.org/bkk/KR6q0205/J/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 絕餘編
+  identifiers:
+    krp: KR6q0205
+    cbeta: J28nB216
+    cbeta_old_id: J28nB216
+    authorityid: CA0001906
+    json_key: JB216
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/J/J28/J28nB216.xml
+    old_id: J28nB216
+  edition:
+    short: J
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0205_000-J.yaml, hash: 'sha256:ba88defd024b28faae4384f41bfffd95b43e491e66a1b5e29743f07f9f82d111'}
+  - {seq: 1, filename: KR6q0205_001-J.yaml, hash: 'sha256:61f950efc60f099c7ecbc3d22a7b437cb83cbccaa425199a1cba703d78018351'}
+  - {seq: 2, filename: KR6q0205_002-J.yaml, hash: 'sha256:64949f9caf267680f3c703a5bc7d40c623bdeafae1f3907b8b0134dad88b9f7d'}
+  - {seq: 3, filename: KR6q0205_003-J.yaml, hash: 'sha256:9039650b242d8c60944f965b383a8d25915a7db19dbf1812f1bda3ffaf2727a4'}
+  - {seq: 4, filename: KR6q0205_004-J.yaml, hash: 'sha256:86df45fed0f96624cdfead3069acdd5e0dd59eafbf6b7376c11bc0d13ded8890'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0205_000-J.markers.yaml, hash: 'sha256:881831a609e4afa28fa2bcd79b16447f938c25c365e00a0dfd46559db7b73c1a'}
+  - {seq: 1, role: markers, filename: assets/KR6q0205_001-J.markers.yaml, hash: 'sha256:efe0a28063e56a7359e95b34e412dc87e355e3251d064d1ca51d3055625c47b7'}
+  - {seq: 2, role: markers, filename: assets/KR6q0205_002-J.markers.yaml, hash: 'sha256:3803415dbe87449c6a8c90bb0214cf718cda2af5d9d83724d37b70bab0374f4f'}
+  - {seq: 3, role: markers, filename: assets/KR6q0205_003-J.markers.yaml, hash: 'sha256:f5b9c7e55fa83575a130de7ee85fbb4e7d75f133fc200dafeb218a150aa2e60d'}
+  - {seq: 4, role: markers, filename: assets/KR6q0205_004-J.markers.yaml, hash: 'sha256:ee7c99b4878d3c095f2c5b94cf6fd189496bb19e1d43d5c1e5a2a1eb7ae6e07b'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0205_J_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0205_J_000-mulu-2
+    span:
+    - front
+    - 240
+    - 240
+  label: 目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0205_J_001-juan-start
+    span:
+    - body
+    - 0
+    - 7829
+  label: 絕餘編卷一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0205_J_001-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 願文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0205_J_001-mulu-2
+    span:
+    - body
+    - 14
+    - 14
+  label: 九華地藏塔前香文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0205_J_001-mulu-3
+    span:
+    - body
+    - 604
+    - 604
+  label: 十周願文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0205_J_001-mulu-4
+    span:
+    - body
+    - 1902
+    - 1902
+  label: 持咒香文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0205_J_001-mulu-5
+    span:
+    - body
+    - 2797
+    - 2797
+  label: 閱藏願文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0205_J_001-mulu-6
+    span:
+    - body
+    - 3313
+    - 3313
+  label: 完梵網香文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0205_J_001-mulu-7
+    span:
+    - body
+    - 5140
+    - 5140
+  label: 滅定業真言咒壇一百十日圓滿然香懺願文
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0205_J_002-juan-start
+    span:
+    - body
+    - 0
+    - 6292
+  label: 絕餘編卷二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0205_J_002-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0205_J_002-mulu-2
+    span:
+    - body
+    - 14
+    - 14
+  label: 示朗融
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0205_J_002-mulu-3
+    span:
+    - body
+    - 229
+    - 229
+  label: 示三止
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0205_J_002-mulu-4
+    span:
+    - body
+    - 485
+    - 485
+  label: 示文約
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0205_J_002-mulu-5
+    span:
+    - body
+    - 805
+    - 805
+  label: 示慧幢上座
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0205_J_002-mulu-6
+    span:
+    - body
+    - 1468
+    - 1468
+  label: 示未能
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0205_J_002-mulu-7
+    span:
+    - body
+    - 2067
+    - 2067
+  label: 示慈昱
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0205_J_002-mulu-8
+    span:
+    - body
+    - 2414
+    - 2414
+  label: 示迦提關主
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0205_J_002-mulu-9
+    span:
+    - body
+    - 2763
+    - 2763
+  label: 示乳生
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0205_J_002-mulu-10
+    span:
+    - body
+    - 3109
+    - 3109
+  label: 又示乳生
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0205_J_002-mulu-11
+    span:
+    - body
+    - 3442
+    - 3442
+  label: 示懸鏡
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0205_J_002-mulu-12
+    span:
+    - body
+    - 3619
+    - 3619
+  label: 傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0205_J_003-juan-start
+    span:
+    - body
+    - 0
+    - 10488
+  label: 絕餘編卷三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0205_J_003-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0205_J_003-mulu-2
+    span:
+    - body
+    - 13
+    - 13
+  label: 梵網合註序
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0205_J_003-mulu-3
+    span:
+    - body
+    - 686
+    - 686
+  label: 讚禮地藏菩薩懺願儀後序
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0205_J_003-mulu-4
+    span:
+    - body
+    - 1073
+    - 1073
+  label: 安居止觀山房序
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0205_J_003-mulu-5
+    span:
+    - body
+    - 2023
+    - 2023
+  label: 題跋
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0205_J_003-mulu-6
+    span:
+    - body
+    - 2025
+    - 2025
+  label: 合註跋語
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0205_J_003-mulu-7
+    span:
+    - body
+    - 2180
+    - 2180
+  label: 題畫
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0205_J_003-mulu-8
+    span:
+    - body
+    - 2312
+    - 2312
+  label: 題等韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0205_J_003-mulu-9
+    span:
+    - body
+    - 2554
+    - 2554
+  label: 刻般若照真論跋
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0205_J_003-mulu-10
+    span:
+    - body
+    - 2871
+    - 2871
+  label: 血書法華經跋
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0205_J_003-mulu-11
+    span:
+    - body
+    - 3165
+    - 3165
+  label: 書柬
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0205_J_003-mulu-12
+    span:
+    - body
+    - 3167
+    - 3167
+  label: 復水部胡善住
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0205_J_003-mulu-13
+    span:
+    - body
+    - 3682
+    - 3682
+  label: 復韓蓮洲
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0205_J_003-mulu-14
+    span:
+    - body
+    - 4005
+    - 4005
+  label: 復卓左車
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0205_J_003-mulu-15
+    span:
+    - body
+    - 4296
+    - 4296
+  label: 復陳旻昭
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0205_J_003-mulu-16
+    span:
+    - body
+    - 4958
+    - 4958
+  label: 復智龍
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0205_J_003-mulu-17
+    span:
+    - body
+    - 5200
+    - 5200
+  label: 寄徐雨海
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0205_J_003-mulu-18
+    span:
+    - body
+    - 5709
+    - 5709
+  label: 再復陳旻昭
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0205_J_003-mulu-19
+    span:
+    - body
+    - 5948
+    - 5948
+  label: 又寄陳旻昭
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0205_J_003-mulu-20
+    span:
+    - body
+    - 6273
+    - 6273
+  label: 寄韓蓮洲
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0205_J_003-mulu-21
+    span:
+    - body
+    - 6500
+    - 6500
+  label: 寄靈隱兄兼訊影渠
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0205_J_003-mulu-22
+    span:
+    - body
+    - 6733
+    - 6733
+  label: 復項居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0205_J_003-mulu-23
+    span:
+    - body
+    - 6920
+    - 6920
+  label: 雜文
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0205_J_003-mulu-24
+    span:
+    - body
+    - 6922
+    - 6922
+  label: 弔溫陵開元寺肖滿師伯文
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0205_J_003-mulu-25
+    span:
+    - body
+    - 7414
+    - 7414
+  label: 弔知白文
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0205_J_003-mulu-26
+    span:
+    - body
+    - 7669
+    - 7669
+  label: 疏
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0205_J_003-mulu-27
+    span:
+    - body
+    - 7670
+    - 7670
+  label: 萬缽緣疏
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0205_J_003-mulu-28
+    span:
+    - body
+    - 8351
+    - 8351
+  label: 蘊空精舍募建華嚴閣疏
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0205_J_003-mulu-29
+    span:
+    - body
+    - 8763
+    - 8763
+  label: 海燈油疏
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0205_J_003-mulu-30
+    span:
+    - body
+    - 9028
+    - 9028
+  label: 芙蓉閣建華嚴期疏
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0205_J_003-mulu-31
+    span:
+    - body
+    - 9676
+    - 9676
+  label: 九華山營建眾僧塔疏
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0205_J_003-mulu-32
+    span:
+    - body
+    - 10108
+    - 10108
+  label: 止觀山房改向文疏
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-juan-start
+    span:
+    - body
+    - 0
+    - 9440
+  label: 絕餘編卷四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-2
+    span:
+    - body
+    - 13
+    - 13
+  label: 觀音大士像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-3
+    span:
+    - body
+    - 115
+    - 115
+  label: 海潮大士像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-4
+    span:
+    - body
+    - 165
+    - 165
+  label: 蓮舟大士像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-5
+    span:
+    - body
+    - 202
+    - 202
+  label: 海湧文殊像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-6
+    span:
+    - body
+    - 263
+    - 263
+  label: 十八應真像讚二首題貫休真蹟
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-7
+    span:
+    - body
+    - 276
+    - 276
+  label: 出山七尊
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-8
+    span:
+    - body
+    - 392
+    - 392
+  label: 水閣十一尊
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-9
+    span:
+    - body
+    - 509
+    - 509
+  label: 達磨祖師像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-10
+    span:
+    - body
+    - 615
+    - 615
+  label: 九華化城寺大圓禪師像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-11
+    span:
+    - body
+    - 684
+    - 684
+  label: 龍庵老人像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-12
+    span:
+    - body
+    - 764
+    - 764
+  label: 博山無異師伯像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-13
+    span:
+    - body
+    - 982
+    - 982
+  label: 銘
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-14
+    span:
+    - body
+    - 983
+    - 983
+  label: 淨信堂銘
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-15
+    span:
+    - body
+    - 1051
+    - 1051
+  label: 梵網室銘
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-16
+    span:
+    - body
+    - 1119
+    - 1119
+  label: 墨銘十六首
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-17
+    span:
+    - body
+    - 1124
+    - 1124
+  label: 靈光獨耀(一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-18
+    span:
+    - body
+    - 1145
+    - 1145
+  label: 赤澤摩尼(二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-19
+    span:
+    - body
+    - 1166
+    - 1166
+  label: 琉璃液(三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-20
+    span:
+    - body
+    - 1186
+    - 1186
+  label: 烏金髓(四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-21
+    span:
+    - body
+    - 1206
+    - 1206
+  label: 空青乳(五)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-22
+    span:
+    - body
+    - 1226
+    - 1226
+  label: 紫雲根(六)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-23
+    span:
+    - body
+    - 1246
+    - 1246
+  label: 含音(七)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-24
+    span:
+    - body
+    - 1265
+    - 1265
+  label: 攝電(八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-25
+    span:
+    - body
+    - 1284
+    - 1284
+  label: 驪珠(九)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-26
+    span:
+    - body
+    - 1303
+    - 1303
+  label: 禹璧(十)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-27
+    span:
+    - body
+    - 1322
+    - 1322
+  label: 月華(十一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-28
+    span:
+    - body
+    - 1342
+    - 1342
+  label: 霞燦(十二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-29
+    span:
+    - body
+    - 1362
+    - 1362
+  label: 凝碧(十三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-30
+    span:
+    - body
+    - 1382
+    - 1382
+  label: 蒼露(十四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-31
+    span:
+    - body
+    - 1402
+    - 1402
+  label: 靈草(十五)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-32
+    span:
+    - body
+    - 1422
+    - 1422
+  label: 玄芝(十六)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-33
+    span:
+    - body
+    - 1442
+    - 1442
+  label: 方竹杖銘五首
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-34
+    span:
+    - body
+    - 1561
+    - 1561
+  label: 詩偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-35
+    span:
+    - body
+    - 1563
+    - 1563
+  label: 山居百八偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-36
+    span:
+    - body
+    - 1571
+    - 1571
+  label: 引
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-37
+    span:
+    - body
+    - 1655
+    - 1655
+  label: 一
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-38
+    span:
+    - body
+    - 1696
+    - 1696
+  label: 二
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-39
+    span:
+    - body
+    - 1737
+    - 1737
+  label: 三
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-40
+    span:
+    - body
+    - 1778
+    - 1778
+  label: 四
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-41
+    span:
+    - body
+    - 1819
+    - 1819
+  label: 五
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-42
+    span:
+    - body
+    - 1860
+    - 1860
+  label: 六
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-43
+    span:
+    - body
+    - 1901
+    - 1901
+  label: 七
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-44
+    span:
+    - body
+    - 1942
+    - 1942
+  label: 八
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-45
+    span:
+    - body
+    - 1983
+    - 1983
+  label: 九
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-46
+    span:
+    - body
+    - 2024
+    - 2024
+  label: 十
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-47
+    span:
+    - body
+    - 2065
+    - 2065
+  label: 十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-48
+    span:
+    - body
+    - 2107
+    - 2107
+  label: 十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-49
+    span:
+    - body
+    - 2149
+    - 2149
+  label: 十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-50
+    span:
+    - body
+    - 2191
+    - 2191
+  label: 十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-51
+    span:
+    - body
+    - 2233
+    - 2233
+  label: 十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-52
+    span:
+    - body
+    - 2275
+    - 2275
+  label: 十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-53
+    span:
+    - body
+    - 2317
+    - 2317
+  label: 十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-54
+    span:
+    - body
+    - 2359
+    - 2359
+  label: 十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-55
+    span:
+    - body
+    - 2401
+    - 2401
+  label: 十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-56
+    span:
+    - body
+    - 2443
+    - 2443
+  label: 二十
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-57
+    span:
+    - body
+    - 2485
+    - 2485
+  label: 二十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-58
+    span:
+    - body
+    - 2528
+    - 2528
+  label: 二十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-59
+    span:
+    - body
+    - 2571
+    - 2571
+  label: 二十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-60
+    span:
+    - body
+    - 2614
+    - 2614
+  label: 二十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-61
+    span:
+    - body
+    - 2657
+    - 2657
+  label: 二十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-62
+    span:
+    - body
+    - 2700
+    - 2700
+  label: 二十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-63
+    span:
+    - body
+    - 2743
+    - 2743
+  label: 二十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-64
+    span:
+    - body
+    - 2786
+    - 2786
+  label: 二十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-65
+    span:
+    - body
+    - 2829
+    - 2829
+  label: 二十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-66
+    span:
+    - body
+    - 2872
+    - 2872
+  label: 三十
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-67
+    span:
+    - body
+    - 2914
+    - 2914
+  label: 三十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-68
+    span:
+    - body
+    - 2957
+    - 2957
+  label: 三十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-69
+    span:
+    - body
+    - 3000
+    - 3000
+  label: 三十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-70
+    span:
+    - body
+    - 3043
+    - 3043
+  label: 三十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-71
+    span:
+    - body
+    - 3116
+    - 3116
+  label: 三十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-72
+    span:
+    - body
+    - 3159
+    - 3159
+  label: 三十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-73
+    span:
+    - body
+    - 3202
+    - 3202
+  label: 三十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-74
+    span:
+    - body
+    - 3245
+    - 3245
+  label: 三十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-75
+    span:
+    - body
+    - 3288
+    - 3288
+  label: 三十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-76
+    span:
+    - body
+    - 3331
+    - 3331
+  label: 四十
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-77
+    span:
+    - body
+    - 3373
+    - 3373
+  label: 四十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-78
+    span:
+    - body
+    - 3416
+    - 3416
+  label: 四十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-79
+    span:
+    - body
+    - 3459
+    - 3459
+  label: 四十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-80
+    span:
+    - body
+    - 3502
+    - 3502
+  label: 四十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-81
+    span:
+    - body
+    - 3545
+    - 3545
+  label: 四十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-82
+    span:
+    - body
+    - 3588
+    - 3588
+  label: 四十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-83
+    span:
+    - body
+    - 3641
+    - 3641
+  label: 四十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-84
+    span:
+    - body
+    - 3684
+    - 3684
+  label: 四十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-85
+    span:
+    - body
+    - 3737
+    - 3737
+  label: 四十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-86
+    span:
+    - body
+    - 3780
+    - 3780
+  label: 五十
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-87
+    span:
+    - body
+    - 3842
+    - 3842
+  label: 五十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-88
+    span:
+    - body
+    - 3885
+    - 3885
+  label: 五十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-89
+    span:
+    - body
+    - 3928
+    - 3928
+  label: 五十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-90
+    span:
+    - body
+    - 3971
+    - 3971
+  label: 五十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-91
+    span:
+    - body
+    - 4014
+    - 4014
+  label: 五十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-92
+    span:
+    - body
+    - 4057
+    - 4057
+  label: 五十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-93
+    span:
+    - body
+    - 4100
+    - 4100
+  label: 五十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-94
+    span:
+    - body
+    - 4143
+    - 4143
+  label: 五十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-95
+    span:
+    - body
+    - 4186
+    - 4186
+  label: 五十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-96
+    span:
+    - body
+    - 4249
+    - 4249
+  label: 六十
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-97
+    span:
+    - body
+    - 4291
+    - 4291
+  label: 六十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-98
+    span:
+    - body
+    - 4334
+    - 4334
+  label: 六十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-99
+    span:
+    - body
+    - 4377
+    - 4377
+  label: 六十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-100
+    span:
+    - body
+    - 4420
+    - 4420
+  label: 六十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-101
+    span:
+    - body
+    - 4463
+    - 4463
+  label: 六十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-102
+    span:
+    - body
+    - 4506
+    - 4506
+  label: 六十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-103
+    span:
+    - body
+    - 4549
+    - 4549
+  label: 六十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-104
+    span:
+    - body
+    - 4592
+    - 4592
+  label: 六十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-105
+    span:
+    - body
+    - 4635
+    - 4635
+  label: 六十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-106
+    span:
+    - body
+    - 4678
+    - 4678
+  label: 七十
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-107
+    span:
+    - body
+    - 4720
+    - 4720
+  label: 七十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-108
+    span:
+    - body
+    - 4763
+    - 4763
+  label: 七十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-109
+    span:
+    - body
+    - 4806
+    - 4806
+  label: 七十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-110
+    span:
+    - body
+    - 4849
+    - 4849
+  label: 七十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-111
+    span:
+    - body
+    - 4892
+    - 4892
+  label: 七十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-112
+    span:
+    - body
+    - 4935
+    - 4935
+  label: 七十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-113
+    span:
+    - body
+    - 4978
+    - 4978
+  label: 七十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-114
+    span:
+    - body
+    - 5021
+    - 5021
+  label: 七十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-115
+    span:
+    - body
+    - 5064
+    - 5064
+  label: 七十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-116
+    span:
+    - body
+    - 5107
+    - 5107
+  label: 八十
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-117
+    span:
+    - body
+    - 5149
+    - 5149
+  label: 八十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-118
+    span:
+    - body
+    - 5192
+    - 5192
+  label: 八十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-119
+    span:
+    - body
+    - 5235
+    - 5235
+  label: 八十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-120
+    span:
+    - body
+    - 5278
+    - 5278
+  label: 八十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-121
+    span:
+    - body
+    - 5321
+    - 5321
+  label: 八十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-122
+    span:
+    - body
+    - 5364
+    - 5364
+  label: 八十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-123
+    span:
+    - body
+    - 5407
+    - 5407
+  label: 八十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-124
+    span:
+    - body
+    - 5450
+    - 5450
+  label: 八十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-125
+    span:
+    - body
+    - 5493
+    - 5493
+  label: 八十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-126
+    span:
+    - body
+    - 5536
+    - 5536
+  label: 九十
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-127
+    span:
+    - body
+    - 5578
+    - 5578
+  label: 九十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-128
+    span:
+    - body
+    - 5621
+    - 5621
+  label: 九十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-129
+    span:
+    - body
+    - 5664
+    - 5664
+  label: 九十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-130
+    span:
+    - body
+    - 5707
+    - 5707
+  label: 九十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-131
+    span:
+    - body
+    - 5750
+    - 5750
+  label: 九十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-132
+    span:
+    - body
+    - 5793
+    - 5793
+  label: 九十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-133
+    span:
+    - body
+    - 5836
+    - 5836
+  label: 九十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-134
+    span:
+    - body
+    - 5879
+    - 5879
+  label: 九十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-135
+    span:
+    - body
+    - 5922
+    - 5922
+  label: 九十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-136
+    span:
+    - body
+    - 5965
+    - 5965
+  label: 一百
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-137
+    span:
+    - body
+    - 6007
+    - 6007
+  label: 百一
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-138
+    span:
+    - body
+    - 6049
+    - 6049
+  label: 百二
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-139
+    span:
+    - body
+    - 6091
+    - 6091
+  label: 百三
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-140
+    span:
+    - body
+    - 6133
+    - 6133
+  label: 百四
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-141
+    span:
+    - body
+    - 6175
+    - 6175
+  label: 百五
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-142
+    span:
+    - body
+    - 6217
+    - 6217
+  label: 百六
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-143
+    span:
+    - body
+    - 6259
+    - 6259
+  label: 百七
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-144
+    span:
+    - body
+    - 6301
+    - 6301
+  label: 百八
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-145
+    span:
+    - body
+    - 6343
+    - 6343
+  label: 幻寓華嚴菴四偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-146
+    span:
+    - body
+    - 6510
+    - 6510
+  label: 遣病歌
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-147
+    span:
+    - body
+    - 6653
+    - 6653
+  label: 夢徹公有感為持咒偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-148
+    span:
+    - body
+    - 6742
+    - 6742
+  label: 三十八歲生日偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-149
+    span:
+    - body
+    - 6893
+    - 6893
+  label: 有所慰
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-150
+    span:
+    - body
+    - 7028
+    - 7028
+  label: 病餘寫懷四偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-151
+    span:
+    - body
+    - 7258
+    - 7258
+  label: 重閱大藏偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-152
+    span:
+    - body
+    - 7423
+    - 7423
+  label: 有感偶成
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-153
+    span:
+    - body
+    - 7511
+    - 7511
+  label: 喜病口占
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-154
+    span:
+    - body
+    - 7543
+    - 7543
+  label: 題五釵松
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-155
+    span:
+    - body
+    - 7673
+    - 7673
+  label: 贈見心開士偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-156
+    span:
+    - body
+    - 7826
+    - 7826
+  label: 丁丑季冬禮千佛於九華藏樓偈贈諸友
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-157
+    span:
+    - body
+    - 8066
+    - 8066
+  label: 贈頂瞿師掩關念佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-158
+    span:
+    - body
+    - 8186
+    - 8186
+  label: 因拄杖折聯成舊句
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-159
+    span:
+    - body
+    - 8250
+    - 8250
+  label: 夢感正法衰替痛哭而醒述偈寫懷二首
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-160
+    span:
+    - body
+    - 8378
+    - 8378
+  label: 道過齊雲問訊貞武
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-161
+    span:
+    - body
+    - 8442
+    - 8442
+  label: 四十初度寫懷
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-162
+    span:
+    - body
+    - 8504
+    - 8504
+  label: 雨窗選佛分得東文二韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-163
+    span:
+    - body
+    - 8570
+    - 8570
+  label: 喜雨歌
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-164
+    span:
+    - body
+    - 8690
+    - 8690
+  label: 贈葆一兄
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-165
+    span:
+    - body
+    - 8830
+    - 8830
+  label: 寄懷未能
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-166
+    span:
+    - body
+    - 8890
+    - 8890
+  label: 新秋懷如是師
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-167
+    span:
+    - body
+    - 8936
+    - 8936
+  label: 警眾友
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-168
+    span:
+    - body
+    - 8979
+    - 8979
+  label: 題扇寄懷野愚索印章
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-169
+    span:
+    - body
+    - 9058
+    - 9058
+  label: 贈華林開士
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-170
+    span:
+    - body
+    - 9175
+    - 9175
+  label: 別玄覽
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-171
+    span:
+    - body
+    - 9307
+    - 9307
+  label: 附對聯
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-172
+    span:
+    - body
+    - 9310
+    - 9310
+  label: 地藏塔前對聯
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-173
+    span:
+    - body
+    - 9356
+    - 9356
+  label: 化城大殿對聯
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-174
+    span:
+    - body
+    - 9396
+    - 9396
+  label: 法堂對聯
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0205_J_004-mulu-175
+    span:
+    - body
+    - 9422
+    - 9422
+  label: 三門對聯
+  type: mulu
+  level: 1
+hash: sha256:f55779f3c29049543f28029b3caa756d66b7875c1f604584bbff528d738a72ed
