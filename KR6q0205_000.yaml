@@ -1,14 +1,11 @@
 canonical_identifier: bkk:krp/KR6q0205/j/v1/juan/0
 seq: 0
-front:
+body:
   text: 絶餘編序生平行履百無一長獨有大菩提心忘身為法捨己從人則堪質諸三世慈尊者也自庚午至甲戌五年之中幾經困衡曾無退悔蓋因乙亥仲秋復遇一友背盟而此志遂不啻如稿木死灰矣丙子春本擬遁迹萬山深處甘與野獸同死途中大病逗留九華哀禱地藏本師仍得閲藏著述之決乃不復與文字般若為讎嗟乎文字性空性空即是實相實相離一切相即一切法豈離文字而解脫哉追思昔年焚棄筆硯絶而不絶今也不絶而絶矣非絶非不絶而論於絶絶無絶相姑名絶餘知我者其惟此編乎笑我者其惟此編乎吾以俟諸後世子與可也崇禎壬午仲夏藕益道人智旭書於吳興之鐵佛觀堂絶餘編目録序卷一願文六首卷二法語十首傳一首卷三序三首題跋五首書柬十一首雜文二首疏六首卷四讚十一首銘二十三首詩偈一百四十九首附對聯四首
   hash: sha256:5618a2f22d764c70a9a7d09f84fa367a733fcf795d5ffd06628701b20a0f9e38
   markers:
   - {type: 序, offset: 0, content: 序, id: KR6q0205_J_000-mulu-1, level: '1'}
   - {type: 其他, offset: 240, content: 目錄, id: KR6q0205_J_000-mulu-2, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 絕餘編
   edition:
@@ -17,4 +14,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/J/J28/J28nB216.xml
     old_id: J28nB216
-hash: sha256:827cead1fce7af393597ee5ff0ed074118b3b5e3ab4b0de9a735987eb96838b7
+hash: sha256:76a8a078b8f3a8d8ce2e17cb491d9a5577bd2908be7eb904a11694e13d310a3d
